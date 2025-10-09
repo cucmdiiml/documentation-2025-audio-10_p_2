@@ -27,14 +27,14 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 **5. Connect Cable to Computer**
 
   ![usb cable options](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/pictures/IML-10p2-USBCableOptions.jpg)
-**If you need old school usb-A, you'll need to swap out the cable on the back of the Motu. pls be careful..!
+  **If you need old school usb-A, you'll need to swap out the cable on the back of the Motu. pls be careful..!
   ![cable instructor machine](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/pictures/IML-10p2-CableInstructorMachine.jpg)
     
 **6. OS AudioMIDI Setup..?**
 
   ![AudioMIDISetup](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/AudioMIDISetup/IML-10p2-AudioMIDISetup.png)
   ![AudioMIDISetup-Default](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/AudioMIDISetup/IML-10p2-AudioMIDISetup-Default.png)
-**this can lead to speakers #1 and/or #9 being a lot quieter than the others!!
+  **this can lead to speakers #1 and/or #9 being a lot quieter than the others!!
   ![AudioMIDISetup-Channels1and2FullVolume](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/AudioMIDISetup/IML-10p2-AudioMIDISetup-Channels1and2FullVolume.png)
   ![AudioMIDISetup-Fixed](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/AudioMIDISetup/IML-10p2-AudioMIDISetup-Fixed.png)
 
@@ -64,12 +64,12 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 
   [IML 10p2 Templates Max BasicSignalTest](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/max/IML-10p2-Templates-Max-BasicSignalTest.maxpat)
   ![Max-Template-BasicSignalTest-InitialState](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-InitialState.png)
-**this is what the BasicSignalTest patch should look like when you open it.
+  **this is what the BasicSignalTest patch should look like when you open it.
   ![Max-Template-BasicSignalTest-MainVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-MainVolumeDown.png)
-**turn 'main' volume down.
+  **turn 'main' volume down.
   ![Max-Template-BasicSignalTest-NoiseVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-NoiseVolumeDown.png)
-**not a bad idea to also turn down the [live.gain~]
+  **not a bad idea to also turn down the [live.gain~]
   ![Max-Template-BasicSignalTest-VolumesDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-VolumesDown.png)
   ![Max-Template-BasicSignalTest-TurnAudioOn](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-TurnAudioOn.png)
-**turning audio on; careful..!
+  **turning audio on; careful..!
   ![Max-Template-BasicSignalTest-VolumeOn](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-VolumeOn.png)
