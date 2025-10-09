@@ -65,11 +65,12 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
   [IML 10p2 Templates Max BasicSignalTest](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/max/IML-10p2-Templates-Max-BasicSignalTest.maxpat)
   ![Max-Template-BasicSignalTest-InitialState](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-InitialState.png)
   **this is what the BasicSignalTest patch should look like when you open it.
-  ![Max-Template-BasicSignalTest-MainVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-MainVolumeDown.png)
+  <!--![Max-Template-BasicSignalTest-MainVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-MainVolumeDown.png)
   **turn 'main' volume down.
   ![Max-Template-BasicSignalTest-NoiseVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-NoiseVolumeDown.png)
-  **not a bad idea to also turn down the [live.gain~]
+  **not a bad idea to also turn down the [live.gain~]-->
   ![Max-Template-BasicSignalTest-VolumesDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-VolumesDown.png)
+  **turn 'main' volume down and also the [live.gain~]
   ![Max-Template-BasicSignalTest-TurnAudioOn](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-TurnAudioOn.png)
   **turning audio on; careful..!
   ![Max-Template-BasicSignalTest-VolumeOn](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-VolumeOn.png)
