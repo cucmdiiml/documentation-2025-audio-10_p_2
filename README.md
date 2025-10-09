@@ -5,7 +5,11 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
  
 **1. Open Rack**
 
+<div style="width:20%; margin: auto;">
+ 
   ![rack closed](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/pictures/IML-10p2-RackClosed.jpg)
+  </div>
+  
   ![rack open](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/pictures/IML-10p2-RackOpen.jpg)
 
 **2. Turn on Power**
