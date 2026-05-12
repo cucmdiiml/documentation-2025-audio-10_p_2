@@ -76,8 +76,10 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
   
   ![Max-Template-BasicSignalTest-MainVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-MainVolumeDown.png)
   **turn 'main' volume down.
+<br>
   ![Max-Template-BasicSignalTest-NoiseVolumeDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-NoiseVolumeDown.png)
   **not a bad idea to also turn down the [live.gain~]-->
+<br>
   ![Max-Template-BasicSignalTest-VolumesDown](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Max/IML-10p2-Max-Template-BasicSignalTest-VolumesDown.png)
   
   **turn 'main' volume down and also the [live.gain~]
