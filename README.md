@@ -143,5 +143,7 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
  ![ambisonics template one or the other](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-18-AmbisonicsTemplate-OneOrTheOther.png)
 <br>
  ![ambisonics template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-19-AmbisonicsTemplate-LooksLikeThis.png)
+<br>
+[GDocs Test](https://docs.google.com/document/d/e/2PACX-1vQ2uu2aiUAqfVQV2T9Lb3FI0cId_8EQtgSVEhGa0i84_UJC-XtCKtNBcBSLKpf9ufzCOd6x5T-YBBev/pub)
 
 
