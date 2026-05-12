@@ -93,6 +93,7 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 ## Reaper Templates
 
 **1. Launching Reaper**
+<br>
    **scanning plugins, setting audio device, etc
  ![scanning plugins](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-01-Launching-ScanningPlugins.png)
 <br>
@@ -104,6 +105,7 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
  ![continue evaluating](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-05-Launching-ContinueEvaluating.png)
 
 **2. Reaper Stereo Template**
+https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/reaper/stereo/IML-10p2-Templates-Reaper-Stereo.RPP
  ![stereo motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-06-MOTUDiscoveryPreset-Stereo.png)
  ![stereo template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-07-StereoTemplate-LooksLikeThis.png)
 
