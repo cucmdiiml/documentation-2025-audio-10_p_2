@@ -105,19 +105,22 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
  ![continue evaluating](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-05-Launching-ContinueEvaluating.png)
 
 **2. Reaper Stereo Template**
-https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/reaper/stereo/IML-10p2-Templates-Reaper-Stereo.RPP
+(https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/reaper/stereo/IML-10p2-Templates-Reaper-Stereo.RPP)
  ![stereo motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-06-MOTUDiscoveryPreset-Stereo.png)
  ![stereo template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-07-StereoTemplate-LooksLikeThis.png)
 
 **3. Reaper 5.1 Template**
+(https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/reaper/5.1/IML-10p2-Templates-Reaper-5.1.RPP)
  ![5.1 motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-08-MOTUDiscoveryPreset-5.1.png)
  ![5.1 template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-09-5.1Template-LooksLikeThis.png)
 
 **4. Reaper 7.1 Template**
+(https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/reaper/7.1/IML-10p2-Templates-Reaper-7.1.RPP)
  ![7.1 motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-10-MOTUDiscoveryPreset-7.1.png)
  ![7.1 template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-11-7.1Template-LooksLikeThis.png)
 
 **5. Reaper Ambisonics Template**
+(https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/software/reaper/ambisonics/IML-10p2-Templates-Reaper-Ambisonics.RPP)
  ![ambisonics motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-12-MOTUDiscoveryPreset-Ambisonics.png)
    **master track output routing and decoding
 <br>
