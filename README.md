@@ -1,7 +1,7 @@
 # CU CMDI IML 10.2 Sound System
 Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 
-## Every Time!
+## Turning On The System
  
 **1. Open Rack**
 
@@ -91,32 +91,32 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 ## Reaper Templates
 
 **1. Launching Reaper
- ![scanning plugins](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-01-Launching-ScanningPlugins.png)
- ![select audio device](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-02-Launching-SelectingAudioDevice.png)
- ![set audio device](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-03-Launching-SettingAudioDevice.png)
- ![allow microphone access](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-04-Launching-AllowMicrophoneAccess.png)
- ![continue evaluating](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-05-Launching-ContinueEvaluating.png)
+ ![scanning plugins](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-01-Launching-ScanningPlugins.png)
+ ![select audio device](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-02-Launching-SelectingAudioDevice.png)
+ ![set audio device](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-03-Launching-SettingAudioDevice.png)
+ ![allow microphone access](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-04-Launching-AllowMicrophoneAccess.png)
+ ![continue evaluating](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-05-Launching-ContinueEvaluating.png)
 
 **2. Reaper Stereo Template
- ![stereo motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-06-MOTUDiscoveryPreset-Stereo.png)
- ![stereo template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-07-StereoTemplate-LooksLikeThis.png)
+ ![stereo motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-06-MOTUDiscoveryPreset-Stereo.png)
+ ![stereo template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-07-StereoTemplate-LooksLikeThis.png)
 
 **3. Reaper 5.1 Template
- ![5.1 motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-08-MOTUDiscoveryPreset-5.1.png)
- ![5.1 template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-09-5.1Template-LooksLikeThis.png)
+ ![5.1 motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-08-MOTUDiscoveryPreset-5.1.png)
+ ![5.1 template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-09-5.1Template-LooksLikeThis.png)
 
 **4. Reaper 7.1 Template
- ![7.1 motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-10-MOTUDiscoveryPreset-7.1.png)
- ![7.1 template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-11-7.1Template-LooksLikeThis.png)
+ ![7.1 motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-10-MOTUDiscoveryPreset-7.1.png)
+ ![7.1 template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-11-7.1Template-LooksLikeThis.png)
 
 **5. Reaper Ambisonics Template
- ![ambisonics motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-12-MOTUDiscoveryPreset-Ambisonics.png)
- ![ambisonics template master output routing](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-13-AmbisonicsTemplate-MasterOutputRouting.png)
- ![ambisonics template simple decoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-14-AmbisonicsTemplate-SimpleDecoder.png)
- ![ambisonics template track output routing](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-15-AmbisonicsTemplate-TrackOutputRouting.png)
- ![ambisonics template stereo encoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-16-AmbisonicsTemplate-StereoEncoder.png)
- ![ambisonics template binaural decoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-17-AmbisonicsTemplate-BinauralDecoder.png)
- ![ambisonics template one or the other](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-18-AmbisonicsTemplate-OneOrTheOther.png)
- ![ambisonics template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/reaper/IML-10p2-Reaper-19-AmbisonicsTemplate-LooksLikeThis.png)
+ ![ambisonics motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-12-MOTUDiscoveryPreset-Ambisonics.png)
+ ![ambisonics template master output routing](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-13-AmbisonicsTemplate-MasterOutputRouting.png)
+ ![ambisonics template simple decoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-14-AmbisonicsTemplate-SimpleDecoder.png)
+ ![ambisonics template track output routing](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-15-AmbisonicsTemplate-TrackOutputRouting.png)
+ ![ambisonics template stereo encoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-16-AmbisonicsTemplate-StereoEncoder.png)
+ ![ambisonics template binaural decoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-17-AmbisonicsTemplate-BinauralDecoder.png)
+ ![ambisonics template one or the other](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-18-AmbisonicsTemplate-OneOrTheOther.png)
+ ![ambisonics template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-19-AmbisonicsTemplate-LooksLikeThis.png)
 
 
