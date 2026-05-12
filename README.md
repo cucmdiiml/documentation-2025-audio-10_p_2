@@ -95,9 +95,12 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 **1. Launching Reaper**
    **scanning plugins, setting audio device, etc
  ![scanning plugins](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-01-Launching-ScanningPlugins.png)
+<br>
  ![select audio device](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-02-Launching-SelectingAudioDevice.png)
+<br>
  ![set audio device](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-03-Launching-SettingAudioDevice.png)
  ![allow microphone access](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-04-Launching-AllowMicrophoneAccess.png)
+<br>
  ![continue evaluating](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-05-Launching-ContinueEvaluating.png)
 
 **2. Reaper Stereo Template**
@@ -115,15 +118,23 @@ Everything about the Immersive Media Lab's 10.2 Sound System... (eventually!)
 **5. Reaper Ambisonics Template**
  ![ambisonics motu preset](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-12-MOTUDiscoveryPreset-Ambisonics.png)
    **master track output routing and decoding
+<br>
  ![ambisonics template master output routing](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-13-AmbisonicsTemplate-MasterOutputRouting.png)
+<br>
  ![ambisonics template simple decoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-14-AmbisonicsTemplate-SimpleDecoder.png)
+<br>
  **track output routing and encoding
  ![ambisonics template track output routing](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-15-AmbisonicsTemplate-TrackOutputRouting.png)
  ![ambisonics template stereo encoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-16-AmbisonicsTemplate-StereoEncoder.png)
+<br>
  **to listen with headphones you can use the binaural decoder
+<br>
  ![ambisonics template binaural decoder](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-17-AmbisonicsTemplate-BinauralDecoder.png)
+<br>
  **but you can only use one or the other!
+<br>
  ![ambisonics template one or the other](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-18-AmbisonicsTemplate-OneOrTheOther.png)
+<br>
  ![ambisonics template](https://github.com/cucmdiiml/documentation-2025-audio-10_p_2/blob/main/images/screenshots/Reaper/IML-10p2-Reaper-19-AmbisonicsTemplate-LooksLikeThis.png)
 
 
